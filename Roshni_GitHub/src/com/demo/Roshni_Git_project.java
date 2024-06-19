@@ -5,7 +5,7 @@ public class Roshni_Git_project {
 
 	public void m1()
 	{
-		System.out.println("Roshni")
+		System.out.println("Roshni");
 			}
 
 	public static void main(String[] args) {
